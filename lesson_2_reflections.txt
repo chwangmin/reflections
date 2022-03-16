@@ -1,1 +1,2 @@
-sdfasdfasdfasdf:
+sdfasdfasdfasdfs어떤식으로 커밋에 해당 되는 파일만 
+스테이징 알이ㅏ에 올린다:
